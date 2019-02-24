@@ -41,7 +41,7 @@ handleClick(buttonText)
 
 				</ul>
 				</section>
-				{this.state.incorrectAnswer? <p className='error'>Sorry thats not right</p>:null}
+				{this.state.incorrectAnswer? <p className='error'>Sorry, that's not right</p>:null}
 				</main>
 
 		      )			
